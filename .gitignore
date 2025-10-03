@@ -1,0 +1,28 @@
+# Archivos generados dinámicamente
+__pycache__/
+*.pyc
+
+# Archivos de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Datos generados
+data*.csv
+data*.txt
+sums.txt
+serial_sums_20.txt
+parallel_sums_20.txt
+serial_time_20.txt
+parallel_time_20.txt
+
+# Docker
+.dockerignore
+
+# Sistema
+.DS_Store
+Thumbs.db
