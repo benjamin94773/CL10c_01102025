@@ -46,10 +46,6 @@ docker run --rm -it -v ${PWD}:/work -w /work local/gnu-parallel-python:latest ba
 docker run --rm -it -v ${PWD}:/work -w /work local/gnu-parallel-python:latest bash -lc "./numbers_parallel_20.sh"
 ```
 
-## Resultados
-
-Consulta `RESULTS.md` para un resumen ejecutivo o `RESULTS.tex` para el informe completo en LaTeX.
-
 ### Principales hallazgos
 
 - **Speed-up CSV**: ~1.84× para 3 archivos de 200k filas
