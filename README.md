@@ -1,3 +1,6 @@
+## Marco Riascos Salguero
+## Benjamin Ortiz Morales
+
 # GNU Parallel - Programación Paralela
 
 Este proyecto demuestra el uso de GNU Parallel para acelerar el procesamiento de datos en dos escenarios:
